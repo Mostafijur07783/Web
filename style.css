@@ -1,0 +1,86 @@
+
+body{
+  margin:0px;
+  padding:0px;
+  Background:black;
+}
+#Container{
+  border:1px solid #ddd;
+  background :#000;
+}
+.Wrapper{
+  color:Tomato;
+  display:block;
+  text-align:center;
+  font-size:18px;
+  animation:left;
+  font-family:arial black;
+}
+.From{
+  width:270px;
+  height:330px;
+  margin:auto;
+  box-shadow:#ddd;
+  background:tomato;
+  margin-top:50px;
+  
+  }
+ .loginInfo{
+ text-transfrom:uppercase;
+ color:blue;
+ text-align:center;
+ text-transform:uppercase;
+ background:tomato;
+ display:block;
+ font-family:aril black;
+ font-size:44px;
+ text-shadow:green:
+   }
+ .firstName{
+ 
+  font-size:30px;
+  font-family :arial black;
+  color:black;
+  display:block;
+  margin-left:10px;
+ 
+}
+.singleBox{
+  background:#ddd;
+  padding:8px;
+  margin-left:10px;
+  display:block;
+  color:red;
+}
+.singleBox:hover{
+  carsol:pointer;
+  background :#f5f5f5;
+}
+.Btm{
+  background:red !important;
+  text-align:center;
+  margin-left:95px;
+  margin-top:15px;
+  color:Black;
+  display:block;
+  font-size:25px;
+}
+.Btm:hover{
+  background:black;
+  color:white;
+  margin-right:5px;
+}
+.help{
+  color:black;
+  margin-left:25px;
+}
+.help a{
+  text-decoration:none;
+}
+.help a:active{
+  color:orange;
+  
+}
+.help a:hover{
+  color:black;
+}
